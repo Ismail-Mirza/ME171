@@ -1,0 +1,12 @@
+Merit list of students :
+Merit Postion			Cgpa
+1									4.00
+2									3.60
+3									3.45
+4									3.42
+5									3.00
+6									2.90
+7									3.95
+8									3.33
+9									3.10
+10							  3.10
